@@ -1,25 +1,23 @@
-#2 - Modificar el programa anterior, ingresando un segundo nro (m) por argumento,
-#  que será el encargado de indicar cuantas sumas se harán.
+#!/usr/bin/python3 
+
+import sys
 
 def num(nro,m):
-   
-    suma = 0
-    valor2 = 0
+    resultado = 0
+    for i in range(1,int(m)+1):
+        a = str(nro) * i
+        resultado = resultado + int(a)
+    
+    return resultado
 
-   
-    for x in range (m):
-        valor1 = nro* (10**x)
-        valor2 = valor2+valor1
-        suma = suma+valor2
-   
-    return suma    
-                           
+if __name__ == "__main__":
 
-
-inicio = int(input("Ingrese el numero a iterar: "))
-it = int(input("¿Cuantas veces desea iterar?: "))
-
-print(num(inicio,it))      
+    if (len(sys.argv) == 3):
+        print("Con el argumento ",str(sys.argv[1]) ," y la cantidad de veces ", str(sys.argv[2])," el resultado es ", str(num(sys.argv[1],sys.argv[2])))
+    else:
+        print("Debe ingresar dos argumentos")
+    
+       
 
    
 

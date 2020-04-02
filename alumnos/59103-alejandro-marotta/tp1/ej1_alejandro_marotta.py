@@ -1,13 +1,16 @@
-# 1 - Realize un programa al que se le da un nro (n) por argumento y el resultado será n + nn + nn. 
+#!/usr/bin/python3 
+
+import sys
 
 def num(nro):
-    n2= nro*10 + nro
-    n3 = nro*100 +nro*10+ nro
+    resultado = 0
+    for i in range(1,4):
+        a = str(nro) * i
+        resultado = resultado + int(a)
     
-    return nro+n2+n3
+    return resultado
 
-valor = int(input("Ingrese un numero: "))
-
-print(num(valor))
-
+if __name__ == "__main__":
+    
+    print("Con el argumento ",str(sys.argv[1]) , " el resultado es ", str(num(sys.argv[1])))
 

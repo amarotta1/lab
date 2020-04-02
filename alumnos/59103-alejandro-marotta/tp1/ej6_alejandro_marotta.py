@@ -1,5 +1,4 @@
-#6 - Escriba un programa que acepte una serie de números separados por coma, 
-# y genere una lista de python ordenada de manera descendente.
+#!/usr/bin/python3
 
 def ordenar(lista):
     lista1 = []
@@ -22,6 +21,10 @@ def imprimir(lista):
     print(ordenar(crear_lista(lista)))
 
 
-valores = input(" Ingrese separado por comas los valores de la lista: ")
+def start():
+    valores = input(" Ingrese separado por comas los valores de la lista: ")
 
-imprimir(valores)
+    imprimir(valores)
+
+if __name__ == "__main__":
+    start()

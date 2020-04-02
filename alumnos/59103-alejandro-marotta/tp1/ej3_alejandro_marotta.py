@@ -1,18 +1,33 @@
-# 3 - Rescriba un programa que cree un histograma de una lista de enteros ingresados por teclado.
+#!/usr/bin/python3
 
+import matplotlib.pyplot as h
 
-def crear_histograma(lista,caracter = "*"):
-    for x in lista:
-        num = int(x)
-        print(caracter * num)
+def crear_histograma():
+    datos = []
+    valor = ""
+    i = 0
+    mayor = 0
+    
+    while True:
+        valor = input("Ingrese un valor entero (o S para salir): ")
+        if valor != "S":
+            datos.append(valor)
+            i+=1
+            if int(valor) > mayor:
+                mayor = int(valor)
+        else:
+            print ("Saliendo...")
+            break
+    
+    print("Valores ingresados: ", datos)
 
+    h.hist(datos, bins = 20)
+    h.xticks(range(0,(mayor+1)))
+    h.title("Histograma")
+    h.xlabel("Numeros")
+    h.ylabel("Veces")
+    h.show()
 
-def crear_lista(string):
+if __name__ == "__main__":
+    crear_histograma()
 
-    lista = string.split(',')
-    return lista
-
-
-valores = input(" Ingrese separado por comas los valores del histograma: ")
-
-crear_histograma(crear_lista(valores))
