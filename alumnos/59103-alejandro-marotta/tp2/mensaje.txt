@@ -1,0 +1,15 @@
+abcdefghijklmnopqrstubwxyz
+123456789
+
+# Bloquear el acceso del robot de Google a example.com/directory1/... y a example.com/directory2/...
+# pero permitir que acceda a directory2/subdirectory1/...
+# El acceso a los otros directorios del sitio web está permitido de forma predeterminada.
+User-agent: googlebot
+Disallow: /directory1/
+Disallow: /directory2/
+Allow: /directory2/subdirectory1/
+
+# Impedir que anothercrawler acceda al sitio web.
+User-agent: anothercrawler
+Disallow: /
+
