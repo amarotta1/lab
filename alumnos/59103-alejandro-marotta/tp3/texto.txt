@@ -1,0 +1,12 @@
+Primero viajo Martino a San Salvador de Oviedo, y posteriormente a Santiago de Compostela y Roma. En Roma paso una cuaresma sometiendose a mortificaciones y ayunos /hacia cuatro comidas a la semana, comiendo solo algo de pan y agua/, por lo que llamo la atencion del Romano Pontifice, /probablemente Adriano IV, segun A Vinayo/ que le recibio en audiencia durante la pascua. Desde alli marcho a Jerusalen por el Adriatico, permaneciendo dos anos sirviendo en Santo Hospital de Jerusalen, coincidiendo esta estancia entre la segunda y la tercera de las Cruzadas. De regreso, paso por Antioquia y Constantinopla, donde compro una casulla de seda, que luego le traera problemas, con idea de donarla al convento de San Marcelo a su regreso. Vuelve por Italia, atraviesa los Alpes y llega a Francia, donde estaban las famosas escuelas-catedralicias de Chartres, Reims y Paris. Alli estudio teologia y se relaciono con los discipulos de Pedro Lombardo, cuya obra Sententiarum Libri IV, influye en el de modo notable y aparece despues abundantemente copiada en su Concordia.5​ Continua hacia Inglaterra e Irlanda, desde donde vuelve de nuevo al continente. En Francia, pasa por Toulouse, para visitar la tumba de San Saturnino, y en la zona de Narbona, probablemente en Beziers, es acusado del robo de la casulla adquirida en Constantinopla, yendo a parar a la carcel. Probablemente tambien fue motivo de la detencion la ideologia albigense, mayoritaria en esta zona. Deshecho el malentendido y liberado vuelve a Leon.
+
+
+
+python3 server.py -d /home/alito/pruebaCompu2 -s 5000
+ab -c 10 -n 1000 http://127.0.0.1:5000/
+127.0.0.1:5000/mono.ppm?filtro=BN&escala=1
+python3 server.py -d /home/alito/computacion2/lab/alumnos/59103-alejandro-marotta/tp3
+telnet 127.0.0.1 5000
+top
+
+
