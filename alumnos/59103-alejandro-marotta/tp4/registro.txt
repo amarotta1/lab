@@ -1,0 +1,5025 @@
+Cliente: ('127.0.0.1', 46230)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:04.177884
+
+Cliente: ('127.0.0.1', 46238)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.972930
+
+Cliente: ('127.0.0.1', 46240)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973023
+
+Cliente: ('127.0.0.1', 46242)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973065
+
+Cliente: ('127.0.0.1', 46244)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973096
+
+Cliente: ('127.0.0.1', 46246)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973125
+
+Cliente: ('127.0.0.1', 46248)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973151
+
+Cliente: ('127.0.0.1', 46250)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973177
+
+Cliente: ('127.0.0.1', 46252)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973202
+
+Cliente: ('127.0.0.1', 46254)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973226
+
+Cliente: ('127.0.0.1', 46256)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.973249
+
+Cliente: ('127.0.0.1', 46258)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.981125
+
+Cliente: ('127.0.0.1', 46260)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.988898
+
+Cliente: ('127.0.0.1', 46262)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.988933
+
+Cliente: ('127.0.0.1', 46264)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.988956
+
+Cliente: ('127.0.0.1', 46266)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.988975
+
+Cliente: ('127.0.0.1', 46268)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.988994
+
+Cliente: ('127.0.0.1', 46270)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.989012
+
+Cliente: ('127.0.0.1', 46272)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.989029
+
+Cliente: ('127.0.0.1', 46274)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.989047
+
+Cliente: ('127.0.0.1', 46276)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.989136
+
+Cliente: ('127.0.0.1', 46278)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:48.991341
+
+Cliente: ('127.0.0.1', 46280)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000249
+
+Cliente: ('127.0.0.1', 46282)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000303
+
+Cliente: ('127.0.0.1', 46284)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000328
+
+Cliente: ('127.0.0.1', 46286)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000351
+
+Cliente: ('127.0.0.1', 46288)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000370
+
+Cliente: ('127.0.0.1', 46290)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000390
+
+Cliente: ('127.0.0.1', 46292)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000408
+
+Cliente: ('127.0.0.1', 46294)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000430
+
+Cliente: ('127.0.0.1', 46296)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.000689
+
+Cliente: ('127.0.0.1', 46298)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.004661
+
+Cliente: ('127.0.0.1', 46300)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013287
+
+Cliente: ('127.0.0.1', 46302)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013331
+
+Cliente: ('127.0.0.1', 46304)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013357
+
+Cliente: ('127.0.0.1', 46306)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013379
+
+Cliente: ('127.0.0.1', 46308)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013400
+
+Cliente: ('127.0.0.1', 46310)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013421
+
+Cliente: ('127.0.0.1', 46312)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013440
+
+Cliente: ('127.0.0.1', 46314)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013458
+
+Cliente: ('127.0.0.1', 46316)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.013477
+
+Cliente: ('127.0.0.1', 46318)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.015712
+
+Cliente: ('127.0.0.1', 46320)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023208
+
+Cliente: ('127.0.0.1', 46322)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023252
+
+Cliente: ('127.0.0.1', 46324)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023277
+
+Cliente: ('127.0.0.1', 46326)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023299
+
+Cliente: ('127.0.0.1', 46328)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023319
+
+Cliente: ('127.0.0.1', 46330)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023337
+
+Cliente: ('127.0.0.1', 46332)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023355
+
+Cliente: ('127.0.0.1', 46334)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023374
+
+Cliente: ('127.0.0.1', 46336)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.023392
+
+Cliente: ('127.0.0.1', 46338)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.025695
+
+Cliente: ('127.0.0.1', 46340)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.032999
+
+Cliente: ('127.0.0.1', 46342)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.033039
+
+Cliente: ('127.0.0.1', 46344)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.033062
+
+Cliente: ('127.0.0.1', 46346)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.033084
+
+Cliente: ('127.0.0.1', 46348)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.033103
+
+Cliente: ('127.0.0.1', 46350)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.033121
+
+Cliente: ('127.0.0.1', 46352)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.033140
+
+Cliente: ('127.0.0.1', 46354)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.033158
+
+Cliente: ('127.0.0.1', 46356)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.033176
+
+Cliente: ('127.0.0.1', 46358)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.035600
+
+Cliente: ('127.0.0.1', 46360)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042673
+
+Cliente: ('127.0.0.1', 46362)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042730
+
+Cliente: ('127.0.0.1', 46364)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042754
+
+Cliente: ('127.0.0.1', 46366)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042775
+
+Cliente: ('127.0.0.1', 46368)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042795
+
+Cliente: ('127.0.0.1', 46370)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042813
+
+Cliente: ('127.0.0.1', 46372)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042832
+
+Cliente: ('127.0.0.1', 46374)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042849
+
+Cliente: ('127.0.0.1', 46376)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.042866
+
+Cliente: ('127.0.0.1', 46378)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.045318
+
+Cliente: ('127.0.0.1', 46380)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052094
+
+Cliente: ('127.0.0.1', 46382)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052130
+
+Cliente: ('127.0.0.1', 46384)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052152
+
+Cliente: ('127.0.0.1', 46386)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052171
+
+Cliente: ('127.0.0.1', 46388)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052189
+
+Cliente: ('127.0.0.1', 46390)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052206
+
+Cliente: ('127.0.0.1', 46392)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052223
+
+Cliente: ('127.0.0.1', 46394)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052240
+
+Cliente: ('127.0.0.1', 46396)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.052256
+
+Cliente: ('127.0.0.1', 46398)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.054395
+
+Cliente: ('127.0.0.1', 46400)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061499
+
+Cliente: ('127.0.0.1', 46402)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061533
+
+Cliente: ('127.0.0.1', 46404)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061595
+
+Cliente: ('127.0.0.1', 46406)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061618
+
+Cliente: ('127.0.0.1', 46408)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061649
+
+Cliente: ('127.0.0.1', 46410)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061667
+
+Cliente: ('127.0.0.1', 46412)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061683
+
+Cliente: ('127.0.0.1', 46414)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061699
+
+Cliente: ('127.0.0.1', 46416)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.061830
+
+Cliente: ('127.0.0.1', 46418)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.063676
+
+Cliente: ('127.0.0.1', 46420)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070158
+
+Cliente: ('127.0.0.1', 46422)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070194
+
+Cliente: ('127.0.0.1', 46424)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070217
+
+Cliente: ('127.0.0.1', 46426)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070236
+
+Cliente: ('127.0.0.1', 46428)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070254
+
+Cliente: ('127.0.0.1', 46430)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070272
+
+Cliente: ('127.0.0.1', 46432)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070288
+
+Cliente: ('127.0.0.1', 46434)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070305
+
+Cliente: ('127.0.0.1', 46436)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.070321
+
+Cliente: ('127.0.0.1', 46438)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.072633
+
+Cliente: ('127.0.0.1', 46440)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079359
+
+Cliente: ('127.0.0.1', 46442)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079396
+
+Cliente: ('127.0.0.1', 46444)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079418
+
+Cliente: ('127.0.0.1', 46446)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079437
+
+Cliente: ('127.0.0.1', 46448)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079455
+
+Cliente: ('127.0.0.1', 46450)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079472
+
+Cliente: ('127.0.0.1', 46452)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079488
+
+Cliente: ('127.0.0.1', 46454)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079504
+
+Cliente: ('127.0.0.1', 46456)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.079519
+
+Cliente: ('127.0.0.1', 46458)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.082699
+
+Cliente: ('127.0.0.1', 46460)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.090902
+
+Cliente: ('127.0.0.1', 46462)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.090960
+
+Cliente: ('127.0.0.1', 46464)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.090985
+
+Cliente: ('127.0.0.1', 46466)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.091007
+
+Cliente: ('127.0.0.1', 46468)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.091028
+
+Cliente: ('127.0.0.1', 46470)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.091048
+
+Cliente: ('127.0.0.1', 46472)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.091086
+
+Cliente: ('127.0.0.1', 46474)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.091104
+
+Cliente: ('127.0.0.1', 46476)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.091123
+
+Cliente: ('127.0.0.1', 46478)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.094001
+
+Cliente: ('127.0.0.1', 46480)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102477
+
+Cliente: ('127.0.0.1', 46482)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102570
+
+Cliente: ('127.0.0.1', 46484)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102597
+
+Cliente: ('127.0.0.1', 46486)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102619
+
+Cliente: ('127.0.0.1', 46488)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102638
+
+Cliente: ('127.0.0.1', 46490)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102657
+
+Cliente: ('127.0.0.1', 46492)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102675
+
+Cliente: ('127.0.0.1', 46494)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102692
+
+Cliente: ('127.0.0.1', 46496)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.102710
+
+Cliente: ('127.0.0.1', 46498)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.105051
+
+Cliente: ('127.0.0.1', 46500)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119225
+
+Cliente: ('127.0.0.1', 46502)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119262
+
+Cliente: ('127.0.0.1', 46504)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119284
+
+Cliente: ('127.0.0.1', 46506)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119304
+
+Cliente: ('127.0.0.1', 46508)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119323
+
+Cliente: ('127.0.0.1', 46510)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119342
+
+Cliente: ('127.0.0.1', 46512)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119359
+
+Cliente: ('127.0.0.1', 46514)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119376
+
+Cliente: ('127.0.0.1', 46516)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.119470
+
+Cliente: ('127.0.0.1', 46518)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.122577
+
+Cliente: ('127.0.0.1', 46520)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129646
+
+Cliente: ('127.0.0.1', 46522)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129689
+
+Cliente: ('127.0.0.1', 46524)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129731
+
+Cliente: ('127.0.0.1', 46526)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129765
+
+Cliente: ('127.0.0.1', 46528)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129786
+
+Cliente: ('127.0.0.1', 46530)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129805
+
+Cliente: ('127.0.0.1', 46532)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129823
+
+Cliente: ('127.0.0.1', 46534)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129841
+
+Cliente: ('127.0.0.1', 46536)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.129859
+
+Cliente: ('127.0.0.1', 46538)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.131901
+
+Cliente: ('127.0.0.1', 46540)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139379
+
+Cliente: ('127.0.0.1', 46542)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139415
+
+Cliente: ('127.0.0.1', 46544)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139438
+
+Cliente: ('127.0.0.1', 46546)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139458
+
+Cliente: ('127.0.0.1', 46548)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139477
+
+Cliente: ('127.0.0.1', 46550)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139495
+
+Cliente: ('127.0.0.1', 46552)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139513
+
+Cliente: ('127.0.0.1', 46554)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139530
+
+Cliente: ('127.0.0.1', 46556)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.139688
+
+Cliente: ('127.0.0.1', 46558)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.141818
+
+Cliente: ('127.0.0.1', 46560)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149806
+
+Cliente: ('127.0.0.1', 46562)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149847
+
+Cliente: ('127.0.0.1', 46564)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149871
+
+Cliente: ('127.0.0.1', 46566)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149892
+
+Cliente: ('127.0.0.1', 46568)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149912
+
+Cliente: ('127.0.0.1', 46570)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149930
+
+Cliente: ('127.0.0.1', 46572)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149948
+
+Cliente: ('127.0.0.1', 46574)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149965
+
+Cliente: ('127.0.0.1', 46576)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.149982
+
+Cliente: ('127.0.0.1', 46578)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.152090
+
+Cliente: ('127.0.0.1', 46580)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159436
+
+Cliente: ('127.0.0.1', 46582)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159469
+
+Cliente: ('127.0.0.1', 46584)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159491
+
+Cliente: ('127.0.0.1', 46586)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159509
+
+Cliente: ('127.0.0.1', 46588)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159527
+
+Cliente: ('127.0.0.1', 46590)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159544
+
+Cliente: ('127.0.0.1', 46592)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159560
+
+Cliente: ('127.0.0.1', 46594)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159577
+
+Cliente: ('127.0.0.1', 46596)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.159709
+
+Cliente: ('127.0.0.1', 46598)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.161759
+
+Cliente: ('127.0.0.1', 46600)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168294
+
+Cliente: ('127.0.0.1', 46602)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168329
+
+Cliente: ('127.0.0.1', 46604)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168351
+
+Cliente: ('127.0.0.1', 46606)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168370
+
+Cliente: ('127.0.0.1', 46608)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168388
+
+Cliente: ('127.0.0.1', 46610)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168405
+
+Cliente: ('127.0.0.1', 46612)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168421
+
+Cliente: ('127.0.0.1', 46614)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168437
+
+Cliente: ('127.0.0.1', 46616)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.168453
+
+Cliente: ('127.0.0.1', 46618)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.170734
+
+Cliente: ('127.0.0.1', 46620)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178748
+
+Cliente: ('127.0.0.1', 46622)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178805
+
+Cliente: ('127.0.0.1', 46624)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178830
+
+Cliente: ('127.0.0.1', 46626)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178852
+
+Cliente: ('127.0.0.1', 46628)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178872
+
+Cliente: ('127.0.0.1', 46630)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178891
+
+Cliente: ('127.0.0.1', 46632)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178909
+
+Cliente: ('127.0.0.1', 46634)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178926
+
+Cliente: ('127.0.0.1', 46636)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.178943
+
+Cliente: ('127.0.0.1', 46638)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.181421
+
+Cliente: ('127.0.0.1', 46640)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188321
+
+Cliente: ('127.0.0.1', 46642)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188359
+
+Cliente: ('127.0.0.1', 46644)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188382
+
+Cliente: ('127.0.0.1', 46646)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188444
+
+Cliente: ('127.0.0.1', 46648)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188466
+
+Cliente: ('127.0.0.1', 46650)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188499
+
+Cliente: ('127.0.0.1', 46652)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188517
+
+Cliente: ('127.0.0.1', 46654)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188534
+
+Cliente: ('127.0.0.1', 46656)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.188551
+
+Cliente: ('127.0.0.1', 46658)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.193513
+
+Cliente: ('127.0.0.1', 46660)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200620
+
+Cliente: ('127.0.0.1', 46662)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200700
+
+Cliente: ('127.0.0.1', 46664)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200730
+
+Cliente: ('127.0.0.1', 46666)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200751
+
+Cliente: ('127.0.0.1', 46668)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200770
+
+Cliente: ('127.0.0.1', 46670)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200789
+
+Cliente: ('127.0.0.1', 46672)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200834
+
+Cliente: ('127.0.0.1', 46674)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200852
+
+Cliente: ('127.0.0.1', 46676)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.200869
+
+Cliente: ('127.0.0.1', 46678)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.203400
+
+Cliente: ('127.0.0.1', 46680)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216443
+
+Cliente: ('127.0.0.1', 46682)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216488
+
+Cliente: ('127.0.0.1', 46684)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216513
+
+Cliente: ('127.0.0.1', 46686)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216533
+
+Cliente: ('127.0.0.1', 46688)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216552
+
+Cliente: ('127.0.0.1', 46690)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216570
+
+Cliente: ('127.0.0.1', 46692)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216588
+
+Cliente: ('127.0.0.1', 46694)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216606
+
+Cliente: ('127.0.0.1', 46696)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.216623
+
+Cliente: ('127.0.0.1', 46698)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.219219
+
+Cliente: ('127.0.0.1', 46700)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226532
+
+Cliente: ('127.0.0.1', 46702)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226579
+
+Cliente: ('127.0.0.1', 46704)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226605
+
+Cliente: ('127.0.0.1', 46706)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226628
+
+Cliente: ('127.0.0.1', 46708)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226648
+
+Cliente: ('127.0.0.1', 46710)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226668
+
+Cliente: ('127.0.0.1', 46712)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226686
+
+Cliente: ('127.0.0.1', 46714)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226704
+
+Cliente: ('127.0.0.1', 46716)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.226721
+
+Cliente: ('127.0.0.1', 46718)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.229229
+
+Cliente: ('127.0.0.1', 46720)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236461
+
+Cliente: ('127.0.0.1', 46722)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236500
+
+Cliente: ('127.0.0.1', 46724)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236524
+
+Cliente: ('127.0.0.1', 46726)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236545
+
+Cliente: ('127.0.0.1', 46728)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236564
+
+Cliente: ('127.0.0.1', 46730)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236582
+
+Cliente: ('127.0.0.1', 46732)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236599
+
+Cliente: ('127.0.0.1', 46734)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236617
+
+Cliente: ('127.0.0.1', 46736)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.236634
+
+Cliente: ('127.0.0.1', 46738)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.238996
+
+Cliente: ('127.0.0.1', 46740)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246416
+
+Cliente: ('127.0.0.1', 46742)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246461
+
+Cliente: ('127.0.0.1', 46744)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246487
+
+Cliente: ('127.0.0.1', 46746)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246509
+
+Cliente: ('127.0.0.1', 46748)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246528
+
+Cliente: ('127.0.0.1', 46750)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246546
+
+Cliente: ('127.0.0.1', 46752)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246564
+
+Cliente: ('127.0.0.1', 46754)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246582
+
+Cliente: ('127.0.0.1', 46756)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.246600
+
+Cliente: ('127.0.0.1', 46758)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.249058
+
+Cliente: ('127.0.0.1', 46760)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.255974
+
+Cliente: ('127.0.0.1', 46762)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.256009
+
+Cliente: ('127.0.0.1', 46764)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.256031
+
+Cliente: ('127.0.0.1', 46766)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.256050
+
+Cliente: ('127.0.0.1', 46768)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.256068
+
+Cliente: ('127.0.0.1', 46770)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.256086
+
+Cliente: ('127.0.0.1', 46772)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.256102
+
+Cliente: ('127.0.0.1', 46774)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.256119
+
+Cliente: ('127.0.0.1', 46776)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.256135
+
+Cliente: ('127.0.0.1', 46778)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.258402
+
+Cliente: ('127.0.0.1', 46780)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265343
+
+Cliente: ('127.0.0.1', 46782)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265381
+
+Cliente: ('127.0.0.1', 46784)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265417
+
+Cliente: ('127.0.0.1', 46786)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265439
+
+Cliente: ('127.0.0.1', 46788)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265459
+
+Cliente: ('127.0.0.1', 46790)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265477
+
+Cliente: ('127.0.0.1', 46792)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265495
+
+Cliente: ('127.0.0.1', 46794)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265513
+
+Cliente: ('127.0.0.1', 46796)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.265550
+
+Cliente: ('127.0.0.1', 46798)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.267946
+
+Cliente: ('127.0.0.1', 46800)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.274996
+
+Cliente: ('127.0.0.1', 46802)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.275036
+
+Cliente: ('127.0.0.1', 46804)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.275060
+
+Cliente: ('127.0.0.1', 46806)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.275081
+
+Cliente: ('127.0.0.1', 46808)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.275101
+
+Cliente: ('127.0.0.1', 46810)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.275119
+
+Cliente: ('127.0.0.1', 46812)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.275137
+
+Cliente: ('127.0.0.1', 46814)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.275154
+
+Cliente: ('127.0.0.1', 46816)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.275172
+
+Cliente: ('127.0.0.1', 46818)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.277867
+
+Cliente: ('127.0.0.1', 46820)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.284890
+
+Cliente: ('127.0.0.1', 46822)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.284932
+
+Cliente: ('127.0.0.1', 46824)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.284956
+
+Cliente: ('127.0.0.1', 46826)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.284977
+
+Cliente: ('127.0.0.1', 46828)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.284997
+
+Cliente: ('127.0.0.1', 46830)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.285015
+
+Cliente: ('127.0.0.1', 46832)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.285034
+
+Cliente: ('127.0.0.1', 46834)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.285092
+
+Cliente: ('127.0.0.1', 46836)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.285125
+
+Cliente: ('127.0.0.1', 46838)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.287490
+
+Cliente: ('127.0.0.1', 46840)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294546
+
+Cliente: ('127.0.0.1', 46842)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294586
+
+Cliente: ('127.0.0.1', 46844)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294610
+
+Cliente: ('127.0.0.1', 46846)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294630
+
+Cliente: ('127.0.0.1', 46848)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294650
+
+Cliente: ('127.0.0.1', 46850)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294667
+
+Cliente: ('127.0.0.1', 46852)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294685
+
+Cliente: ('127.0.0.1', 46854)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294703
+
+Cliente: ('127.0.0.1', 46856)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.294720
+
+Cliente: ('127.0.0.1', 46858)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.297997
+
+Cliente: ('127.0.0.1', 46860)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305098
+
+Cliente: ('127.0.0.1', 46862)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305137
+
+Cliente: ('127.0.0.1', 46864)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305161
+
+Cliente: ('127.0.0.1', 46866)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305181
+
+Cliente: ('127.0.0.1', 46868)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305200
+
+Cliente: ('127.0.0.1', 46870)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305218
+
+Cliente: ('127.0.0.1', 46872)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305236
+
+Cliente: ('127.0.0.1', 46874)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305253
+
+Cliente: ('127.0.0.1', 46876)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.305270
+
+Cliente: ('127.0.0.1', 46878)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.310230
+
+Cliente: ('127.0.0.1', 46880)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319549
+
+Cliente: ('127.0.0.1', 46882)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319584
+
+Cliente: ('127.0.0.1', 46884)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319607
+
+Cliente: ('127.0.0.1', 46886)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319627
+
+Cliente: ('127.0.0.1', 46888)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319646
+
+Cliente: ('127.0.0.1', 46890)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319664
+
+Cliente: ('127.0.0.1', 46892)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319682
+
+Cliente: ('127.0.0.1', 46894)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319700
+
+Cliente: ('127.0.0.1', 46896)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.319786
+
+Cliente: ('127.0.0.1', 46898)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.326136
+
+Cliente: ('127.0.0.1', 46900)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.334822
+
+Cliente: ('127.0.0.1', 46902)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.334867
+
+Cliente: ('127.0.0.1', 46904)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.334892
+
+Cliente: ('127.0.0.1', 46906)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.334914
+
+Cliente: ('127.0.0.1', 46908)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.334934
+
+Cliente: ('127.0.0.1', 46910)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.334953
+
+Cliente: ('127.0.0.1', 46912)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.334971
+
+Cliente: ('127.0.0.1', 46914)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.334989
+
+Cliente: ('127.0.0.1', 46916)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.335006
+
+Cliente: ('127.0.0.1', 46918)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.336886
+
+Cliente: ('127.0.0.1', 46920)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.344824
+
+Cliente: ('127.0.0.1', 46922)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.344864
+
+Cliente: ('127.0.0.1', 46924)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.344889
+
+Cliente: ('127.0.0.1', 46926)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.344910
+
+Cliente: ('127.0.0.1', 46928)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.344931
+
+Cliente: ('127.0.0.1', 46930)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.344949
+
+Cliente: ('127.0.0.1', 46932)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.344968
+
+Cliente: ('127.0.0.1', 46934)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.344985
+
+Cliente: ('127.0.0.1', 46936)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.345139
+
+Cliente: ('127.0.0.1', 46938)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.347194
+
+Cliente: ('127.0.0.1', 46940)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354171
+
+Cliente: ('127.0.0.1', 46942)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354210
+
+Cliente: ('127.0.0.1', 46944)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354234
+
+Cliente: ('127.0.0.1', 46946)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354255
+
+Cliente: ('127.0.0.1', 46948)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354275
+
+Cliente: ('127.0.0.1', 46950)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354294
+
+Cliente: ('127.0.0.1', 46952)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354330
+
+Cliente: ('127.0.0.1', 46954)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354353
+
+Cliente: ('127.0.0.1', 46956)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.354370
+
+Cliente: ('127.0.0.1', 46958)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.356579
+
+Cliente: ('127.0.0.1', 46960)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364160
+
+Cliente: ('127.0.0.1', 46962)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364203
+
+Cliente: ('127.0.0.1', 46964)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364228
+
+Cliente: ('127.0.0.1', 46966)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364250
+
+Cliente: ('127.0.0.1', 46968)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364271
+
+Cliente: ('127.0.0.1', 46970)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364290
+
+Cliente: ('127.0.0.1', 46972)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364308
+
+Cliente: ('127.0.0.1', 46974)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364325
+
+Cliente: ('127.0.0.1', 46976)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.364342
+
+Cliente: ('127.0.0.1', 46978)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.366847
+
+Cliente: ('127.0.0.1', 46980)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373742
+
+Cliente: ('127.0.0.1', 46982)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373781
+
+Cliente: ('127.0.0.1', 46984)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373804
+
+Cliente: ('127.0.0.1', 46986)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373823
+
+Cliente: ('127.0.0.1', 46988)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373863
+
+Cliente: ('127.0.0.1', 46990)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373881
+
+Cliente: ('127.0.0.1', 46992)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373898
+
+Cliente: ('127.0.0.1', 46994)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373915
+
+Cliente: ('127.0.0.1', 46996)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.373931
+
+Cliente: ('127.0.0.1', 46998)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.376328
+
+Cliente: ('127.0.0.1', 47000)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383335
+
+Cliente: ('127.0.0.1', 47002)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383374
+
+Cliente: ('127.0.0.1', 47004)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383398
+
+Cliente: ('127.0.0.1', 47006)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383418
+
+Cliente: ('127.0.0.1', 47008)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383438
+
+Cliente: ('127.0.0.1', 47010)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383456
+
+Cliente: ('127.0.0.1', 47012)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383474
+
+Cliente: ('127.0.0.1', 47014)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383491
+
+Cliente: ('127.0.0.1', 47016)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.383508
+
+Cliente: ('127.0.0.1', 47018)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.385876
+
+Cliente: ('127.0.0.1', 47020)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393107
+
+Cliente: ('127.0.0.1', 47022)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393148
+
+Cliente: ('127.0.0.1', 47024)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393172
+
+Cliente: ('127.0.0.1', 47026)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393195
+
+Cliente: ('127.0.0.1', 47028)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393215
+
+Cliente: ('127.0.0.1', 47030)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393234
+
+Cliente: ('127.0.0.1', 47032)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393253
+
+Cliente: ('127.0.0.1', 47034)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393271
+
+Cliente: ('127.0.0.1', 47036)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.393289
+
+Cliente: ('127.0.0.1', 47038)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.395746
+
+Cliente: ('127.0.0.1', 47040)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.425568
+
+Cliente: ('127.0.0.1', 47042)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.425830
+
+Cliente: ('127.0.0.1', 47044)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.425928
+
+Cliente: ('127.0.0.1', 47046)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.426006
+
+Cliente: ('127.0.0.1', 47048)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.426076
+
+Cliente: ('127.0.0.1', 47050)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.430134
+
+Cliente: ('127.0.0.1', 47052)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.430221
+
+Cliente: ('127.0.0.1', 47054)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.430279
+
+Cliente: ('127.0.0.1', 47056)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.430329
+
+Cliente: ('127.0.0.1', 47058)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.438595
+
+Cliente: ('127.0.0.1', 47060)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.449691
+
+Cliente: ('127.0.0.1', 47062)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.449740
+
+Cliente: ('127.0.0.1', 47064)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.449771
+
+Cliente: ('127.0.0.1', 47066)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.449828
+
+Cliente: ('127.0.0.1', 47068)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.449868
+
+Cliente: ('127.0.0.1', 47070)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.449892
+
+Cliente: ('127.0.0.1', 47072)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.449915
+
+Cliente: ('127.0.0.1', 47074)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.449937
+
+Cliente: ('127.0.0.1', 47076)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.450154
+
+Cliente: ('127.0.0.1', 47078)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.452431
+
+Cliente: ('127.0.0.1', 47080)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.459815
+
+Cliente: ('127.0.0.1', 47082)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.459860
+
+Cliente: ('127.0.0.1', 47084)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.459887
+
+Cliente: ('127.0.0.1', 47086)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.459915
+
+Cliente: ('127.0.0.1', 47088)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.459945
+
+Cliente: ('127.0.0.1', 47090)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.459974
+
+Cliente: ('127.0.0.1', 47092)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.460002
+
+Cliente: ('127.0.0.1', 47094)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.460022
+
+Cliente: ('127.0.0.1', 47096)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.460039
+
+Cliente: ('127.0.0.1', 47098)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.462196
+
+Cliente: ('127.0.0.1', 47100)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469687
+
+Cliente: ('127.0.0.1', 47102)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469723
+
+Cliente: ('127.0.0.1', 47104)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469746
+
+Cliente: ('127.0.0.1', 47106)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469766
+
+Cliente: ('127.0.0.1', 47108)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469784
+
+Cliente: ('127.0.0.1', 47110)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469802
+
+Cliente: ('127.0.0.1', 47112)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469820
+
+Cliente: ('127.0.0.1', 47114)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469837
+
+Cliente: ('127.0.0.1', 47116)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.469977
+
+Cliente: ('127.0.0.1', 47118)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.472196
+
+Cliente: ('127.0.0.1', 47120)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479682
+
+Cliente: ('127.0.0.1', 47122)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479723
+
+Cliente: ('127.0.0.1', 47124)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479746
+
+Cliente: ('127.0.0.1', 47126)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479766
+
+Cliente: ('127.0.0.1', 47128)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479784
+
+Cliente: ('127.0.0.1', 47130)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479802
+
+Cliente: ('127.0.0.1', 47132)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479819
+
+Cliente: ('127.0.0.1', 47134)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479836
+
+Cliente: ('127.0.0.1', 47136)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.479853
+
+Cliente: ('127.0.0.1', 47138)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.482321
+
+Cliente: ('127.0.0.1', 47140)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.489801
+
+Cliente: ('127.0.0.1', 47142)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.489838
+
+Cliente: ('127.0.0.1', 47144)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.489860
+
+Cliente: ('127.0.0.1', 47146)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.489880
+
+Cliente: ('127.0.0.1', 47148)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.489899
+
+Cliente: ('127.0.0.1', 47150)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.489917
+
+Cliente: ('127.0.0.1', 47152)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.489934
+
+Cliente: ('127.0.0.1', 47154)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.489951
+
+Cliente: ('127.0.0.1', 47156)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.490178
+
+Cliente: ('127.0.0.1', 47158)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.492397
+
+Cliente: ('127.0.0.1', 47160)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.501799
+
+Cliente: ('127.0.0.1', 47162)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.501853
+
+Cliente: ('127.0.0.1', 47164)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.501881
+
+Cliente: ('127.0.0.1', 47166)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.501904
+
+Cliente: ('127.0.0.1', 47168)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.501925
+
+Cliente: ('127.0.0.1', 47170)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.501946
+
+Cliente: ('127.0.0.1', 47172)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.501966
+
+Cliente: ('127.0.0.1', 47174)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.501986
+
+Cliente: ('127.0.0.1', 47176)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.502049
+
+Cliente: ('127.0.0.1', 47178)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.504158
+
+Cliente: ('127.0.0.1', 47180)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.521970
+
+Cliente: ('127.0.0.1', 47182)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.522064
+
+Cliente: ('127.0.0.1', 47184)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.522121
+
+Cliente: ('127.0.0.1', 47186)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.522169
+
+Cliente: ('127.0.0.1', 47188)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.522293
+
+Cliente: ('127.0.0.1', 47190)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.522355
+
+Cliente: ('127.0.0.1', 47192)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.522401
+
+Cliente: ('127.0.0.1', 47194)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.522446
+
+Cliente: ('127.0.0.1', 47196)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.522488
+
+Cliente: ('127.0.0.1', 47198)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.527010
+
+Cliente: ('127.0.0.1', 47200)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538314
+
+Cliente: ('127.0.0.1', 47202)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538426
+
+Cliente: ('127.0.0.1', 47204)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538465
+
+Cliente: ('127.0.0.1', 47206)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538494
+
+Cliente: ('127.0.0.1', 47208)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538521
+
+Cliente: ('127.0.0.1', 47210)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538546
+
+Cliente: ('127.0.0.1', 47212)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538570
+
+Cliente: ('127.0.0.1', 47214)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538594
+
+Cliente: ('127.0.0.1', 47216)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.538619
+
+Cliente: ('127.0.0.1', 47218)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.541488
+
+Cliente: ('127.0.0.1', 47220)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.549836
+
+Cliente: ('127.0.0.1', 47222)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.549884
+
+Cliente: ('127.0.0.1', 47224)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.549911
+
+Cliente: ('127.0.0.1', 47226)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.549934
+
+Cliente: ('127.0.0.1', 47228)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.549956
+
+Cliente: ('127.0.0.1', 47230)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.549977
+
+Cliente: ('127.0.0.1', 47232)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.549997
+
+Cliente: ('127.0.0.1', 47234)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.550016
+
+Cliente: ('127.0.0.1', 47236)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.550035
+
+Cliente: ('127.0.0.1', 47238)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.552619
+
+Cliente: ('127.0.0.1', 47240)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562495
+
+Cliente: ('127.0.0.1', 47242)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562541
+
+Cliente: ('127.0.0.1', 47244)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562566
+
+Cliente: ('127.0.0.1', 47246)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562589
+
+Cliente: ('127.0.0.1', 47248)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562608
+
+Cliente: ('127.0.0.1', 47250)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562628
+
+Cliente: ('127.0.0.1', 47252)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562647
+
+Cliente: ('127.0.0.1', 47254)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562665
+
+Cliente: ('127.0.0.1', 47256)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.562683
+
+Cliente: ('127.0.0.1', 47258)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.565165
+
+Cliente: ('127.0.0.1', 47260)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572293
+
+Cliente: ('127.0.0.1', 47262)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572331
+
+Cliente: ('127.0.0.1', 47264)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572356
+
+Cliente: ('127.0.0.1', 47266)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572377
+
+Cliente: ('127.0.0.1', 47268)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572396
+
+Cliente: ('127.0.0.1', 47270)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572415
+
+Cliente: ('127.0.0.1', 47272)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572433
+
+Cliente: ('127.0.0.1', 47274)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572451
+
+Cliente: ('127.0.0.1', 47276)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.572468
+
+Cliente: ('127.0.0.1', 47278)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.578714
+
+Cliente: ('127.0.0.1', 47280)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587101
+
+Cliente: ('127.0.0.1', 47282)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587140
+
+Cliente: ('127.0.0.1', 47284)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587163
+
+Cliente: ('127.0.0.1', 47286)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587184
+
+Cliente: ('127.0.0.1', 47288)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587202
+
+Cliente: ('127.0.0.1', 47290)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587220
+
+Cliente: ('127.0.0.1', 47292)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587238
+
+Cliente: ('127.0.0.1', 47294)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587256
+
+Cliente: ('127.0.0.1', 47296)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.587346
+
+Cliente: ('127.0.0.1', 47298)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.594277
+
+Cliente: ('127.0.0.1', 47300)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.601996
+
+Cliente: ('127.0.0.1', 47302)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.602031
+
+Cliente: ('127.0.0.1', 47304)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.602055
+
+Cliente: ('127.0.0.1', 47306)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.602078
+
+Cliente: ('127.0.0.1', 47308)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.602099
+
+Cliente: ('127.0.0.1', 47310)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.602120
+
+Cliente: ('127.0.0.1', 47312)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.602140
+
+Cliente: ('127.0.0.1', 47314)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.602160
+
+Cliente: ('127.0.0.1', 47316)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.602404
+
+Cliente: ('127.0.0.1', 47318)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.604074
+
+Cliente: ('127.0.0.1', 47320)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611570
+
+Cliente: ('127.0.0.1', 47322)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611613
+
+Cliente: ('127.0.0.1', 47324)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611638
+
+Cliente: ('127.0.0.1', 47326)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611660
+
+Cliente: ('127.0.0.1', 47328)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611680
+
+Cliente: ('127.0.0.1', 47330)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611699
+
+Cliente: ('127.0.0.1', 47332)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611717
+
+Cliente: ('127.0.0.1', 47334)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611735
+
+Cliente: ('127.0.0.1', 47336)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.611753
+
+Cliente: ('127.0.0.1', 47338)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.614082
+
+Cliente: ('127.0.0.1', 47340)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621446
+
+Cliente: ('127.0.0.1', 47342)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621487
+
+Cliente: ('127.0.0.1', 47344)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621510
+
+Cliente: ('127.0.0.1', 47346)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621531
+
+Cliente: ('127.0.0.1', 47348)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621551
+
+Cliente: ('127.0.0.1', 47350)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621569
+
+Cliente: ('127.0.0.1', 47352)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621587
+
+Cliente: ('127.0.0.1', 47354)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621604
+
+Cliente: ('127.0.0.1', 47356)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.621622
+
+Cliente: ('127.0.0.1', 47358)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.624314
+
+Cliente: ('127.0.0.1', 47360)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632198
+
+Cliente: ('127.0.0.1', 47362)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632242
+
+Cliente: ('127.0.0.1', 47364)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632266
+
+Cliente: ('127.0.0.1', 47366)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632286
+
+Cliente: ('127.0.0.1', 47368)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632305
+
+Cliente: ('127.0.0.1', 47370)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632322
+
+Cliente: ('127.0.0.1', 47372)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632340
+
+Cliente: ('127.0.0.1', 47374)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632357
+
+Cliente: ('127.0.0.1', 47376)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.632374
+
+Cliente: ('127.0.0.1', 47378)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.634764
+
+Cliente: ('127.0.0.1', 47380)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641739
+
+Cliente: ('127.0.0.1', 47382)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641777
+
+Cliente: ('127.0.0.1', 47384)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641801
+
+Cliente: ('127.0.0.1', 47386)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641822
+
+Cliente: ('127.0.0.1', 47388)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641871
+
+Cliente: ('127.0.0.1', 47390)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641893
+
+Cliente: ('127.0.0.1', 47392)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641910
+
+Cliente: ('127.0.0.1', 47394)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641927
+
+Cliente: ('127.0.0.1', 47396)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.641944
+
+Cliente: ('127.0.0.1', 47398)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.644606
+
+Cliente: ('127.0.0.1', 47400)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651724
+
+Cliente: ('127.0.0.1', 47402)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651762
+
+Cliente: ('127.0.0.1', 47404)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651785
+
+Cliente: ('127.0.0.1', 47406)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651804
+
+Cliente: ('127.0.0.1', 47408)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651823
+
+Cliente: ('127.0.0.1', 47410)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651841
+
+Cliente: ('127.0.0.1', 47412)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651858
+
+Cliente: ('127.0.0.1', 47414)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651874
+
+Cliente: ('127.0.0.1', 47416)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.651890
+
+Cliente: ('127.0.0.1', 47418)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.654176
+
+Cliente: ('127.0.0.1', 47420)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661194
+
+Cliente: ('127.0.0.1', 47422)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661236
+
+Cliente: ('127.0.0.1', 47424)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661261
+
+Cliente: ('127.0.0.1', 47426)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661283
+
+Cliente: ('127.0.0.1', 47428)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661303
+
+Cliente: ('127.0.0.1', 47430)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661322
+
+Cliente: ('127.0.0.1', 47432)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661341
+
+Cliente: ('127.0.0.1', 47434)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661359
+
+Cliente: ('127.0.0.1', 47436)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.661378
+
+Cliente: ('127.0.0.1', 47438)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.663868
+
+Cliente: ('127.0.0.1', 47440)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670783
+
+Cliente: ('127.0.0.1', 47442)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670821
+
+Cliente: ('127.0.0.1', 47444)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670845
+
+Cliente: ('127.0.0.1', 47446)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670866
+
+Cliente: ('127.0.0.1', 47448)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670885
+
+Cliente: ('127.0.0.1', 47450)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670904
+
+Cliente: ('127.0.0.1', 47452)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670923
+
+Cliente: ('127.0.0.1', 47454)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670941
+
+Cliente: ('127.0.0.1', 47456)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.670958
+
+Cliente: ('127.0.0.1', 47458)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.675798
+
+Cliente: ('127.0.0.1', 47460)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683440
+
+Cliente: ('127.0.0.1', 47462)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683482
+
+Cliente: ('127.0.0.1', 47464)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683507
+
+Cliente: ('127.0.0.1', 47466)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683529
+
+Cliente: ('127.0.0.1', 47468)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683549
+
+Cliente: ('127.0.0.1', 47470)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683567
+
+Cliente: ('127.0.0.1', 47472)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683585
+
+Cliente: ('127.0.0.1', 47474)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683603
+
+Cliente: ('127.0.0.1', 47476)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.683620
+
+Cliente: ('127.0.0.1', 47478)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.686098
+
+Cliente: ('127.0.0.1', 47480)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699348
+
+Cliente: ('127.0.0.1', 47482)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699392
+
+Cliente: ('127.0.0.1', 47484)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699417
+
+Cliente: ('127.0.0.1', 47486)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699438
+
+Cliente: ('127.0.0.1', 47488)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699457
+
+Cliente: ('127.0.0.1', 47490)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699476
+
+Cliente: ('127.0.0.1', 47492)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699494
+
+Cliente: ('127.0.0.1', 47494)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699512
+
+Cliente: ('127.0.0.1', 47496)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.699530
+
+Cliente: ('127.0.0.1', 47498)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.702083
+
+Cliente: ('127.0.0.1', 47500)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709260
+
+Cliente: ('127.0.0.1', 47502)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709335
+
+Cliente: ('127.0.0.1', 47504)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709361
+
+Cliente: ('127.0.0.1', 47506)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709383
+
+Cliente: ('127.0.0.1', 47508)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709403
+
+Cliente: ('127.0.0.1', 47510)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709422
+
+Cliente: ('127.0.0.1', 47512)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709441
+
+Cliente: ('127.0.0.1', 47514)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709458
+
+Cliente: ('127.0.0.1', 47516)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.709476
+
+Cliente: ('127.0.0.1', 47518)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.712429
+
+Cliente: ('127.0.0.1', 47520)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719747
+
+Cliente: ('127.0.0.1', 47522)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719785
+
+Cliente: ('127.0.0.1', 47524)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719809
+
+Cliente: ('127.0.0.1', 47526)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719830
+
+Cliente: ('127.0.0.1', 47528)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719850
+
+Cliente: ('127.0.0.1', 47530)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719868
+
+Cliente: ('127.0.0.1', 47532)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719886
+
+Cliente: ('127.0.0.1', 47534)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719904
+
+Cliente: ('127.0.0.1', 47536)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.719922
+
+Cliente: ('127.0.0.1', 47538)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.722411
+
+Cliente: ('127.0.0.1', 47540)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729798
+
+Cliente: ('127.0.0.1', 47542)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729843
+
+Cliente: ('127.0.0.1', 47544)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729868
+
+Cliente: ('127.0.0.1', 47546)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729889
+
+Cliente: ('127.0.0.1', 47548)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729909
+
+Cliente: ('127.0.0.1', 47550)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729927
+
+Cliente: ('127.0.0.1', 47552)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729945
+
+Cliente: ('127.0.0.1', 47554)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729962
+
+Cliente: ('127.0.0.1', 47556)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.729980
+
+Cliente: ('127.0.0.1', 47558)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.732738
+
+Cliente: ('127.0.0.1', 47560)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739682
+
+Cliente: ('127.0.0.1', 47562)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739718
+
+Cliente: ('127.0.0.1', 47564)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739741
+
+Cliente: ('127.0.0.1', 47566)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739761
+
+Cliente: ('127.0.0.1', 47568)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739779
+
+Cliente: ('127.0.0.1', 47570)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739796
+
+Cliente: ('127.0.0.1', 47572)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739813
+
+Cliente: ('127.0.0.1', 47574)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739830
+
+Cliente: ('127.0.0.1', 47576)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.739846
+
+Cliente: ('127.0.0.1', 47578)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.742515
+
+Cliente: ('127.0.0.1', 47580)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749363
+
+Cliente: ('127.0.0.1', 47582)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749399
+
+Cliente: ('127.0.0.1', 47584)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749424
+
+Cliente: ('127.0.0.1', 47586)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749444
+
+Cliente: ('127.0.0.1', 47588)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749463
+
+Cliente: ('127.0.0.1', 47590)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749481
+
+Cliente: ('127.0.0.1', 47592)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749498
+
+Cliente: ('127.0.0.1', 47594)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749515
+
+Cliente: ('127.0.0.1', 47596)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.749532
+
+Cliente: ('127.0.0.1', 47598)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.751988
+
+Cliente: ('127.0.0.1', 47600)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.758991
+
+Cliente: ('127.0.0.1', 47602)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.759030
+
+Cliente: ('127.0.0.1', 47604)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.759053
+
+Cliente: ('127.0.0.1', 47606)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.759073
+
+Cliente: ('127.0.0.1', 47608)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.759091
+
+Cliente: ('127.0.0.1', 47610)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.759109
+
+Cliente: ('127.0.0.1', 47612)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.759127
+
+Cliente: ('127.0.0.1', 47614)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.759144
+
+Cliente: ('127.0.0.1', 47616)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.759162
+
+Cliente: ('127.0.0.1', 47618)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.761566
+
+Cliente: ('127.0.0.1', 47620)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768635
+
+Cliente: ('127.0.0.1', 47622)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768673
+
+Cliente: ('127.0.0.1', 47624)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768697
+
+Cliente: ('127.0.0.1', 47626)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768719
+
+Cliente: ('127.0.0.1', 47628)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768739
+
+Cliente: ('127.0.0.1', 47630)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768758
+
+Cliente: ('127.0.0.1', 47632)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768776
+
+Cliente: ('127.0.0.1', 47634)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768794
+
+Cliente: ('127.0.0.1', 47636)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.768811
+
+Cliente: ('127.0.0.1', 47638)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.771020
+
+Cliente: ('127.0.0.1', 47640)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778460
+
+Cliente: ('127.0.0.1', 47642)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778494
+
+Cliente: ('127.0.0.1', 47644)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778517
+
+Cliente: ('127.0.0.1', 47646)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778538
+
+Cliente: ('127.0.0.1', 47648)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778557
+
+Cliente: ('127.0.0.1', 47650)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778575
+
+Cliente: ('127.0.0.1', 47652)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778593
+
+Cliente: ('127.0.0.1', 47654)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778610
+
+Cliente: ('127.0.0.1', 47656)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.778745
+
+Cliente: ('127.0.0.1', 47658)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.781875
+
+Cliente: ('127.0.0.1', 47660)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790716
+
+Cliente: ('127.0.0.1', 47662)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790781
+
+Cliente: ('127.0.0.1', 47664)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790807
+
+Cliente: ('127.0.0.1', 47666)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790831
+
+Cliente: ('127.0.0.1', 47668)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790852
+
+Cliente: ('127.0.0.1', 47670)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790874
+
+Cliente: ('127.0.0.1', 47672)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790895
+
+Cliente: ('127.0.0.1', 47674)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790916
+
+Cliente: ('127.0.0.1', 47676)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.790949
+
+Cliente: ('127.0.0.1', 47678)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.793056
+
+Cliente: ('127.0.0.1', 47680)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802213
+
+Cliente: ('127.0.0.1', 47682)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802251
+
+Cliente: ('127.0.0.1', 47684)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802275
+
+Cliente: ('127.0.0.1', 47686)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802294
+
+Cliente: ('127.0.0.1', 47688)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802313
+
+Cliente: ('127.0.0.1', 47690)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802414
+
+Cliente: ('127.0.0.1', 47692)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802439
+
+Cliente: ('127.0.0.1', 47694)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802457
+
+Cliente: ('127.0.0.1', 47696)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.802598
+
+Cliente: ('127.0.0.1', 47698)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.804612
+
+Cliente: ('127.0.0.1', 47700)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.816691
+
+Cliente: ('127.0.0.1', 47702)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.816734
+
+Cliente: ('127.0.0.1', 47704)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.816759
+
+Cliente: ('127.0.0.1', 47706)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.816780
+
+Cliente: ('127.0.0.1', 47708)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.816832
+
+Cliente: ('127.0.0.1', 47710)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.816920
+
+Cliente: ('127.0.0.1', 47712)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.816960
+
+Cliente: ('127.0.0.1', 47714)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.816981
+
+Cliente: ('127.0.0.1', 47716)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.817038
+
+Cliente: ('127.0.0.1', 47718)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.819043
+
+Cliente: ('127.0.0.1', 47720)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.826910
+
+Cliente: ('127.0.0.1', 47722)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.826955
+
+Cliente: ('127.0.0.1', 47724)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.826982
+
+Cliente: ('127.0.0.1', 47726)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.827005
+
+Cliente: ('127.0.0.1', 47728)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.827028
+
+Cliente: ('127.0.0.1', 47730)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.827050
+
+Cliente: ('127.0.0.1', 47732)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.827071
+
+Cliente: ('127.0.0.1', 47734)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.827091
+
+Cliente: ('127.0.0.1', 47736)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.827110
+
+Cliente: ('127.0.0.1', 47738)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.829130
+
+Cliente: ('127.0.0.1', 47740)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.836903
+
+Cliente: ('127.0.0.1', 47742)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.836940
+
+Cliente: ('127.0.0.1', 47744)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.836963
+
+Cliente: ('127.0.0.1', 47746)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.836984
+
+Cliente: ('127.0.0.1', 47748)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.837004
+
+Cliente: ('127.0.0.1', 47750)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.837022
+
+Cliente: ('127.0.0.1', 47752)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.837039
+
+Cliente: ('127.0.0.1', 47754)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.837057
+
+Cliente: ('127.0.0.1', 47756)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.837196
+
+Cliente: ('127.0.0.1', 47758)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.839232
+
+Cliente: ('127.0.0.1', 47760)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846757
+
+Cliente: ('127.0.0.1', 47762)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846803
+
+Cliente: ('127.0.0.1', 47764)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846829
+
+Cliente: ('127.0.0.1', 47766)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846851
+
+Cliente: ('127.0.0.1', 47768)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846872
+
+Cliente: ('127.0.0.1', 47770)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846891
+
+Cliente: ('127.0.0.1', 47772)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846910
+
+Cliente: ('127.0.0.1', 47774)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846928
+
+Cliente: ('127.0.0.1', 47776)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.846964
+
+Cliente: ('127.0.0.1', 47778)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.849449
+
+Cliente: ('127.0.0.1', 47780)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856666
+
+Cliente: ('127.0.0.1', 47782)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856705
+
+Cliente: ('127.0.0.1', 47784)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856728
+
+Cliente: ('127.0.0.1', 47786)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856748
+
+Cliente: ('127.0.0.1', 47788)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856768
+
+Cliente: ('127.0.0.1', 47790)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856786
+
+Cliente: ('127.0.0.1', 47792)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856804
+
+Cliente: ('127.0.0.1', 47794)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856822
+
+Cliente: ('127.0.0.1', 47796)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.856839
+
+Cliente: ('127.0.0.1', 47798)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.859550
+
+Cliente: ('127.0.0.1', 47800)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.866844
+
+Cliente: ('127.0.0.1', 47802)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.866884
+
+Cliente: ('127.0.0.1', 47804)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.866907
+
+Cliente: ('127.0.0.1', 47806)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.866928
+
+Cliente: ('127.0.0.1', 47808)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.866947
+
+Cliente: ('127.0.0.1', 47810)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.866965
+
+Cliente: ('127.0.0.1', 47812)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.866983
+
+Cliente: ('127.0.0.1', 47814)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.867000
+
+Cliente: ('127.0.0.1', 47816)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.867017
+
+Cliente: ('127.0.0.1', 47818)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.869352
+
+Cliente: ('127.0.0.1', 47820)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876592
+
+Cliente: ('127.0.0.1', 47822)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876644
+
+Cliente: ('127.0.0.1', 47824)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876667
+
+Cliente: ('127.0.0.1', 47826)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876688
+
+Cliente: ('127.0.0.1', 47828)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876706
+
+Cliente: ('127.0.0.1', 47830)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876724
+
+Cliente: ('127.0.0.1', 47832)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876742
+
+Cliente: ('127.0.0.1', 47834)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876759
+
+Cliente: ('127.0.0.1', 47836)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.876775
+
+Cliente: ('127.0.0.1', 47838)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.879103
+
+Cliente: ('127.0.0.1', 47840)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886294
+
+Cliente: ('127.0.0.1', 47842)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886336
+
+Cliente: ('127.0.0.1', 47844)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886360
+
+Cliente: ('127.0.0.1', 47846)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886381
+
+Cliente: ('127.0.0.1', 47848)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886401
+
+Cliente: ('127.0.0.1', 47850)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886420
+
+Cliente: ('127.0.0.1', 47852)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886438
+
+Cliente: ('127.0.0.1', 47854)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886456
+
+Cliente: ('127.0.0.1', 47856)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.886474
+
+Cliente: ('127.0.0.1', 47858)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.891621
+
+Cliente: ('127.0.0.1', 47860)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.899742
+
+Cliente: ('127.0.0.1', 47862)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.899781
+
+Cliente: ('127.0.0.1', 47864)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.899804
+
+Cliente: ('127.0.0.1', 47866)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.899824
+
+Cliente: ('127.0.0.1', 47868)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.899843
+
+Cliente: ('127.0.0.1', 47870)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.899862
+
+Cliente: ('127.0.0.1', 47872)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.899880
+
+Cliente: ('127.0.0.1', 47874)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.899897
+
+Cliente: ('127.0.0.1', 47876)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.900009
+
+Cliente: ('127.0.0.1', 47878)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.901983
+
+Cliente: ('127.0.0.1', 47880)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915158
+
+Cliente: ('127.0.0.1', 47882)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915201
+
+Cliente: ('127.0.0.1', 47884)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915224
+
+Cliente: ('127.0.0.1', 47886)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915244
+
+Cliente: ('127.0.0.1', 47888)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915263
+
+Cliente: ('127.0.0.1', 47890)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915282
+
+Cliente: ('127.0.0.1', 47892)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915300
+
+Cliente: ('127.0.0.1', 47894)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915317
+
+Cliente: ('127.0.0.1', 47896)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.915334
+
+Cliente: ('127.0.0.1', 47898)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.917257
+
+Cliente: ('127.0.0.1', 47900)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.924777
+
+Cliente: ('127.0.0.1', 47902)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.924813
+
+Cliente: ('127.0.0.1', 47904)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.924838
+
+Cliente: ('127.0.0.1', 47906)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.924860
+
+Cliente: ('127.0.0.1', 47908)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.924881
+
+Cliente: ('127.0.0.1', 47910)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.924902
+
+Cliente: ('127.0.0.1', 47912)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.924922
+
+Cliente: ('127.0.0.1', 47914)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.924942
+
+Cliente: ('127.0.0.1', 47916)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.925087
+
+Cliente: ('127.0.0.1', 47918)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.927542
+
+Cliente: ('127.0.0.1', 47920)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935142
+
+Cliente: ('127.0.0.1', 47922)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935182
+
+Cliente: ('127.0.0.1', 47924)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935205
+
+Cliente: ('127.0.0.1', 47926)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935227
+
+Cliente: ('127.0.0.1', 47928)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935246
+
+Cliente: ('127.0.0.1', 47930)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935265
+
+Cliente: ('127.0.0.1', 47932)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935282
+
+Cliente: ('127.0.0.1', 47934)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935300
+
+Cliente: ('127.0.0.1', 47936)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.935317
+
+Cliente: ('127.0.0.1', 47938)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.937328
+
+Cliente: ('127.0.0.1', 47940)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945298
+
+Cliente: ('127.0.0.1', 47942)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945335
+
+Cliente: ('127.0.0.1', 47944)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945359
+
+Cliente: ('127.0.0.1', 47946)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945380
+
+Cliente: ('127.0.0.1', 47948)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945399
+
+Cliente: ('127.0.0.1', 47950)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945416
+
+Cliente: ('127.0.0.1', 47952)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945467
+
+Cliente: ('127.0.0.1', 47954)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945488
+
+Cliente: ('127.0.0.1', 47956)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.945644
+
+Cliente: ('127.0.0.1', 47958)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.947916
+
+Cliente: ('127.0.0.1', 47960)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954745
+
+Cliente: ('127.0.0.1', 47962)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954784
+
+Cliente: ('127.0.0.1', 47964)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954808
+
+Cliente: ('127.0.0.1', 47966)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954829
+
+Cliente: ('127.0.0.1', 47968)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954848
+
+Cliente: ('127.0.0.1', 47970)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954867
+
+Cliente: ('127.0.0.1', 47972)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954885
+
+Cliente: ('127.0.0.1', 47974)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954902
+
+Cliente: ('127.0.0.1', 47976)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.954919
+
+Cliente: ('127.0.0.1', 47978)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.957283
+
+Cliente: ('127.0.0.1', 47980)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964653
+
+Cliente: ('127.0.0.1', 47982)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964694
+
+Cliente: ('127.0.0.1', 47984)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964718
+
+Cliente: ('127.0.0.1', 47986)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964739
+
+Cliente: ('127.0.0.1', 47988)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964757
+
+Cliente: ('127.0.0.1', 47990)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964776
+
+Cliente: ('127.0.0.1', 47992)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964794
+
+Cliente: ('127.0.0.1', 47994)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964811
+
+Cliente: ('127.0.0.1', 47996)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.964829
+
+Cliente: ('127.0.0.1', 47998)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.967389
+
+Cliente: ('127.0.0.1', 48000)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974475
+
+Cliente: ('127.0.0.1', 48002)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974514
+
+Cliente: ('127.0.0.1', 48004)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974538
+
+Cliente: ('127.0.0.1', 48006)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974559
+
+Cliente: ('127.0.0.1', 48008)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974578
+
+Cliente: ('127.0.0.1', 48010)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974596
+
+Cliente: ('127.0.0.1', 48012)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974614
+
+Cliente: ('127.0.0.1', 48014)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974631
+
+Cliente: ('127.0.0.1', 48016)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.974648
+
+Cliente: ('127.0.0.1', 48018)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.976925
+
+Cliente: ('127.0.0.1', 48020)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.984925
+
+Cliente: ('127.0.0.1', 48022)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.984968
+
+Cliente: ('127.0.0.1', 48024)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.984993
+
+Cliente: ('127.0.0.1', 48026)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.985015
+
+Cliente: ('127.0.0.1', 48028)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.985035
+
+Cliente: ('127.0.0.1', 48030)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.985054
+
+Cliente: ('127.0.0.1', 48032)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.985073
+
+Cliente: ('127.0.0.1', 48034)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.985090
+
+Cliente: ('127.0.0.1', 48036)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.985107
+
+Cliente: ('127.0.0.1', 48038)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.987843
+
+Cliente: ('127.0.0.1', 48040)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995478
+
+Cliente: ('127.0.0.1', 48042)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995529
+
+Cliente: ('127.0.0.1', 48044)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995557
+
+Cliente: ('127.0.0.1', 48046)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995599
+
+Cliente: ('127.0.0.1', 48048)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995624
+
+Cliente: ('127.0.0.1', 48050)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995645
+
+Cliente: ('127.0.0.1', 48052)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995665
+
+Cliente: ('127.0.0.1', 48054)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995684
+
+Cliente: ('127.0.0.1', 48056)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:49.995703
+
+Cliente: ('127.0.0.1', 48058)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.001104
+
+Cliente: ('127.0.0.1', 48060)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.011792
+
+Cliente: ('127.0.0.1', 48062)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.011840
+
+Cliente: ('127.0.0.1', 48064)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.011864
+
+Cliente: ('127.0.0.1', 48066)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.011886
+
+Cliente: ('127.0.0.1', 48068)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.011907
+
+Cliente: ('127.0.0.1', 48070)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.011926
+
+Cliente: ('127.0.0.1', 48072)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.011945
+
+Cliente: ('127.0.0.1', 48074)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.011964
+
+Cliente: ('127.0.0.1', 48076)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.012166
+
+Cliente: ('127.0.0.1', 48078)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.014429
+
+Cliente: ('127.0.0.1', 48080)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021150
+
+Cliente: ('127.0.0.1', 48082)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021202
+
+Cliente: ('127.0.0.1', 48084)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021273
+
+Cliente: ('127.0.0.1', 48086)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021330
+
+Cliente: ('127.0.0.1', 48088)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021364
+
+Cliente: ('127.0.0.1', 48090)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021382
+
+Cliente: ('127.0.0.1', 48092)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021413
+
+Cliente: ('127.0.0.1', 48094)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021431
+
+Cliente: ('127.0.0.1', 48096)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.021448
+
+Cliente: ('127.0.0.1', 48098)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.029028
+
+Cliente: ('127.0.0.1', 48100)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036494
+
+Cliente: ('127.0.0.1', 48102)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036590
+
+Cliente: ('127.0.0.1', 48104)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036649
+
+Cliente: ('127.0.0.1', 48106)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036669
+
+Cliente: ('127.0.0.1', 48108)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036688
+
+Cliente: ('127.0.0.1', 48110)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036706
+
+Cliente: ('127.0.0.1', 48112)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036724
+
+Cliente: ('127.0.0.1', 48114)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036741
+
+Cliente: ('127.0.0.1', 48116)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.036757
+
+Cliente: ('127.0.0.1', 48118)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.039162
+
+Cliente: ('127.0.0.1', 48120)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.046833
+
+Cliente: ('127.0.0.1', 48122)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.046876
+
+Cliente: ('127.0.0.1', 48124)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.046925
+
+Cliente: ('127.0.0.1', 48126)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.046948
+
+Cliente: ('127.0.0.1', 48128)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.046968
+
+Cliente: ('127.0.0.1', 48130)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.046986
+
+Cliente: ('127.0.0.1', 48132)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.047004
+
+Cliente: ('127.0.0.1', 48134)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.047021
+
+Cliente: ('127.0.0.1', 48136)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.047038
+
+Cliente: ('127.0.0.1', 48138)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.049404
+
+Cliente: ('127.0.0.1', 48140)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056671
+
+Cliente: ('127.0.0.1', 48142)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056711
+
+Cliente: ('127.0.0.1', 48144)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056735
+
+Cliente: ('127.0.0.1', 48146)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056755
+
+Cliente: ('127.0.0.1', 48148)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056774
+
+Cliente: ('127.0.0.1', 48150)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056792
+
+Cliente: ('127.0.0.1', 48152)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056810
+
+Cliente: ('127.0.0.1', 48154)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056826
+
+Cliente: ('127.0.0.1', 48156)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.056843
+
+Cliente: ('127.0.0.1', 48158)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.059567
+
+Cliente: ('127.0.0.1', 48160)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.066995
+
+Cliente: ('127.0.0.1', 48162)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.067036
+
+Cliente: ('127.0.0.1', 48164)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.067060
+
+Cliente: ('127.0.0.1', 48166)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.067080
+
+Cliente: ('127.0.0.1', 48168)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.067100
+
+Cliente: ('127.0.0.1', 48170)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.067118
+
+Cliente: ('127.0.0.1', 48172)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.067135
+
+Cliente: ('127.0.0.1', 48174)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.067152
+
+Cliente: ('127.0.0.1', 48176)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.067170
+
+Cliente: ('127.0.0.1', 48178)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.069562
+
+Cliente: ('127.0.0.1', 48180)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076740
+
+Cliente: ('127.0.0.1', 48182)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076780
+
+Cliente: ('127.0.0.1', 48184)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076804
+
+Cliente: ('127.0.0.1', 48186)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076826
+
+Cliente: ('127.0.0.1', 48188)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076846
+
+Cliente: ('127.0.0.1', 48190)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076864
+
+Cliente: ('127.0.0.1', 48192)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076882
+
+Cliente: ('127.0.0.1', 48194)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076900
+
+Cliente: ('127.0.0.1', 48196)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.076917
+
+Cliente: ('127.0.0.1', 48198)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.079245
+
+Cliente: ('127.0.0.1', 48200)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086349
+
+Cliente: ('127.0.0.1', 48202)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086389
+
+Cliente: ('127.0.0.1', 48204)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086413
+
+Cliente: ('127.0.0.1', 48206)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086434
+
+Cliente: ('127.0.0.1', 48208)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086454
+
+Cliente: ('127.0.0.1', 48210)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086473
+
+Cliente: ('127.0.0.1', 48212)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086491
+
+Cliente: ('127.0.0.1', 48214)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086522
+
+Cliente: ('127.0.0.1', 48216)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.086539
+
+Cliente: ('127.0.0.1', 48218)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.088762
+
+Cliente: ('127.0.0.1', 48220)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096668
+
+Cliente: ('127.0.0.1', 48222)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096712
+
+Cliente: ('127.0.0.1', 48224)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096738
+
+Cliente: ('127.0.0.1', 48226)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096760
+
+Cliente: ('127.0.0.1', 48228)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096780
+
+Cliente: ('127.0.0.1', 48230)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096799
+
+Cliente: ('127.0.0.1', 48232)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096818
+
+Cliente: ('127.0.0.1', 48234)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096836
+
+Cliente: ('127.0.0.1', 48236)
+Peticion: GET / HTTP/1.0
+Archivo:/index.html
+Fecha: 2020-10-28 23:09:50.096854
+
+Cliente: ('127.0.0.1', 48250)
+Peticion: GET /cat.jpg HTTP/1.1
+Archivo:/cat.jpg
+Fecha: 2020-10-28 23:11:01.760936
+
+Cliente: ('127.0.0.1', 48254)
+Peticion: GET /enunciado.pdf HTTP/1.1
+Archivo:/enunciado.pdf
+Fecha: 2020-10-28 23:11:03.954511
+
+Cliente: ('127.0.0.1', 48256)
+Peticion: GET /mono.ppm HTTP/1.1
+Archivo:/mono.ppm
+Fecha: 2020-10-28 23:11:06.310275
+
+Cliente: ('127.0.0.1', 48258)
+Peticion: GET /texto.txt HTTP/1.1
+Archivo:/texto.txt
+Fecha: 2020-10-28 23:11:11.569272
+
