@@ -19,7 +19,7 @@ async def handler(reader,writer):
 
     data = await reader.read(1024)
     addr = writer.get_extra_info('peername')
-
+    encabezado = ""
 
     try:
         encabezado = data.decode().splitlines()[0] #solo necesito la primer linea
@@ -94,6 +94,10 @@ async def main():
 
     arg = await parseArguments()
     port = arg.port
+
+    """
+    server = await asyncio.start_server(
+        handler, ['::1','127.0.0.1'], port)"""
 
     server = await asyncio.start_server(
         handler, '127.0.0.1', port)
